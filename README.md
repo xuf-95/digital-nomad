@@ -12,18 +12,15 @@
 1. [DNA](https://mp.weixin.qq.com/s/k_RKrUhj-huDygMBB20u-g): 浙江省杭州市安吉县DNA安吉数字游民公社
 > DNA: Digital Nomad Anji
 > 微信公众号：[DNA安吉数字游民公社](https://mp.weixin.qq.com/s/k_RKrUhj-huDygMBB20u-g)
-> 小红书：
-
 2. [DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0) :浙江省湖州市安吉县天荒坪青来集人才社区
 > DN余村（Digital Nomad 余村）: 
 > 微信公众号：[DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0)
-> 小红书：
 3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
 > NCC: Nomad Co-living & Co-Creating
 > 微信公众号：[NCC社区](https://mp.weixin.qq.com/s/KBty2Av38St0i-cU0qvAwQ)
 > 微信小程序：[NCC游民村](#小程序://游民村/kzoBksAphQ6v9Pv)
 > 小红书：[NCC共创共居社区](http://xhslink.com/MsnbDu)
-1. 成都 天星里 
+
 
 #### 东南亚
 1. 706清迈客栈 - 住宿和办公一体【清迈】
