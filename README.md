@@ -11,14 +11,20 @@
 #### 🇨🇳中国
 1. [DNA](https://mp.weixin.qq.com/s/k_RKrUhj-huDygMBB20u-g): 浙江省杭州市安吉县DNA安吉数字游民公社
 > DNA: Digital Nomad Anji
+
 > 微信公众号：[DNA安吉数字游民公社](https://mp.weixin.qq.com/s/k_RKrUhj-huDygMBB20u-g)
 2. [DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0) :浙江省湖州市安吉县天荒坪青来集人才社区
 > DN余村（Digital Nomad 余村）: 
+
 > 微信公众号：[DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0)
-3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
+
+3.[NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
 > NCC: Nomad Co-living & Co-Creating
+
 > 微信公众号：[NCC社区](https://mp.weixin.qq.com/s/KBty2Av38St0i-cU0qvAwQ)
+
 > 微信小程序：[NCC游民村](#小程序://游民村/kzoBksAphQ6v9Pv)
+
 > 小红书：[NCC共创共居社区](http://xhslink.com/MsnbDu)
 
 
@@ -32,8 +38,9 @@
 7. The Social Club() - 国际化程度较高【清迈】
 ### 远程工作网站
 1. [电鸭社群](https://eleduck.com) - 电鸭社区是国内最具影响力的自由工作社区，聚集了海内外5w+社区居民，每月新增上百条工作机会。 在电鸭，我们只工作，不上班【Apple Store App】
-2. [up work](https://www.upwork.com/) - 这个是全球最大的外包网站之一,很多知名公司都会在这里找外包员工
-3.  [we work remotely](https://weworkremotely.com/) - 最大的远程工作网站
+2. [RW数字游民社区](https://NOMADDAO.CLUB) - 秉持DAO的理念共建数字游民社区，赋能&链接数字游民
+3. [up work](https://www.upwork.com/) - 这个是全球最大的外包网站之一,很多知名公司都会在这里找外包员工
+4.  [we work remotely](https://weworkremotely.com/) - 最大的远程工作网站
 3. [hired](https://hired.com/) 
 4. [fiverr](https://www.fiverr.com/) - 侧重于技能变现，还有：帮外国人算命、帮外国人起中文名字、教人做菜、设计卡通头像、帮人修改中文简历、中文陪练等等
 5. [FreeLancer](http://freelancer.com) - 价格低、门槛低、有中文网站
