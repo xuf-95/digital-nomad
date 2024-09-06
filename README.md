@@ -1,9 +1,5 @@
-# DigitalNomad
+# The Digital Nomad
 > Digital Nomad: 简称DN（DNer）
-
-![Open-Source Software][OSS Icon] 表示 **开源软件** ，点击进入 **开源** 仓库；\
-![App Store][app-store Icon] 表示 **App store** 连接地址；\
-![Awesome List][awesome-list Icon] 表示项目的相应 **Awesome list** 的超链接；
 
 ## 数据游民历史
 ## 数据游民资源
