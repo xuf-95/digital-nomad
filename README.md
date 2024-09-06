@@ -14,7 +14,7 @@
 
 > 微信公众号：[DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0)
 
-3.[NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
+3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
 > NCC: Nomad Co-living & Co-Creating
 
 > 微信公众号：[NCC社区](https://mp.weixin.qq.com/s/KBty2Av38St0i-cU0qvAwQ)
@@ -22,6 +22,9 @@
 > 微信小程序：[NCC游民村](#小程序://游民村/kzoBksAphQ6v9Pv)
 
 > 小红书：[NCC共创共居社区](http://xhslink.com/MsnbDu)
+
+4. [天星村]()
+5. 
 
 
 #### 东南亚
@@ -36,14 +39,18 @@
 1. [电鸭社群](https://eleduck.com) - 电鸭社区是国内最具影响力的自由工作社区，聚集了海内外5w+社区居民，每月新增上百条工作机会。 在电鸭，我们只工作，不上班【Apple Store App】
 2. [RW数字游民社区](https://NOMADDAO.CLUB) - 秉持DAO的理念共建数字游民社区，赋能&链接数字游民
 3. [up work](https://www.upwork.com/) - 这个是全球最大的外包网站之一,很多知名公司都会在这里找外包员工
-4.  [we work remotely](https://weworkremotely.com/) - 最大的远程工作网站
+4. [we work remotely](https://weworkremotely.com/) - 最大的远程工作网站
 3. [hired](https://hired.com/) 
 4. [fiverr](https://www.fiverr.com/) - 侧重于技能变现，还有：帮外国人算命、帮外国人起中文名字、教人做菜、设计卡通头像、帮人修改中文简历、中文陪练等等
 5. [FreeLancer](http://freelancer.com) - 价格低、门槛低、有中文网站
 6. [remotive](https://remotive.com/) - 轻松找到你梦寐以求的远程工作
 7. [daily remote](https://dailyremote.com/) - 【付费】
 8. [toptal](https://www.toptal.com/) - Toptal是世界顶级自由软件开发者、设计师、财务专家、产品经理和项目经理的专属网络。顶级公司雇佣Toptal自由职业者来完成他们最重要的项目。
-9.
+9. [Remote OK](https://remoteok.com/): 这是一个专门为远程工作者设计的工作平台，数据分析师、开发人员、市场专家等可以在这里找到全球的远程工作机会。
+10. [WeWorkRemotely](https://weworkremotely.com/): 提供远程工作的工作板，其中有很多针对数据分析师、开发者、设计师等技术岗位的机会，适合数据游民寻找灵活的工作。
+11. [Reddit - Digital Nomad](https://www.reddit.com/r/digitalnomad/): 这是Reddit上一个专门讨论数字游民生活方式的论坛，用户分享各种远程工作机会、城市推荐和游牧经验。
+
+12.
 ### 旅游攻略
 1. [nomad list](https://nomadlist.com/) - 是一个为数字游民和远程工作者提供全球城市生活成本、工作环境、气候等多维度信息比较和目的地选择指南的在线平台。通过访问该网站，用户可以得到丰富的数据支持和实用的社区指导，从而更好地规划他们的数字游民生涯。
 2. [lonely planet](https://www.lonelyplanet.com/) - Lonely Planet（孤独星球）是一个著名的旅游资讯网站和旅行指南出版商，提供全球各地详细的旅行指南、攻略、景点信息及旅行灵感，帮助旅行者计划和预订理想旅程。
