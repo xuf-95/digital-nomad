@@ -24,7 +24,7 @@
 > 小红书：[NCC共创共居社区](http://xhslink.com/MsnbDu)
 
 4. [天星村]()
-5. 
+5. [NCC黑多岛]()
 
 
 #### 东南亚
@@ -50,7 +50,17 @@
 10. [WeWorkRemotely](https://weworkremotely.com/): 提供远程工作的工作板，其中有很多针对数据分析师、开发者、设计师等技术岗位的机会，适合数据游民寻找灵活的工作。
 11. [Reddit - Digital Nomad](https://www.reddit.com/r/digitalnomad/): 这是Reddit上一个专门讨论数字游民生活方式的论坛，用户分享各种远程工作机会、城市推荐和游牧经验。
 
-12.
+## 数字游民工作签证
+1. 日本：
+2. 港澳台
+3. 泰国：
+4. 清迈：
+5. 新加坡：
+6. 马来西亚：
+7. 迪拜：
+8. 荷兰：
+9. 
+
 ### 旅游攻略
 1. [nomad list](https://nomadlist.com/) - 是一个为数字游民和远程工作者提供全球城市生活成本、工作环境、气候等多维度信息比较和目的地选择指南的在线平台。通过访问该网站，用户可以得到丰富的数据支持和实用的社区指导，从而更好地规划他们的数字游民生涯。
 2. [lonely planet](https://www.lonelyplanet.com/) - Lonely Planet（孤独星球）是一个著名的旅游资讯网站和旅行指南出版商，提供全球各地详细的旅行指南、攻略、景点信息及旅行灵感，帮助旅行者计划和预订理想旅程。
@@ -77,12 +87,6 @@
 ## 数字游民
 1. [数字游民部落](https://jarodise.com/) - Jarod Zhang
 2. [Nomad List](- Best Places to Live for Digital Nomads) - 数字游民相对适合的国家相关信息（花费、温度等）
-3. [DilyRemote](https://dailyremote.com/) - Get Your Dream Remote Job Today
-4. [Toptal](https://www.toptal.com/) - Hire the Top 3% of Freelance Talent®
-5. [weworkremotely](https://weworkremotely.com/) - We Work Remotely:For over a decade WWR has been the number one destination to find and listincredible remote jobs. We're home to the largest remote work communityin the world with 4.5Mvi
-6. 
-
-
 
 
 
