@@ -14,7 +14,7 @@
 
 > 微信公众号：[DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0)
 
-3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号
+3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号 
 > NCC: Nomad Co-living & Co-Creating
 
 > 微信公众号：[NCC社区](https://mp.weixin.qq.com/s/KBty2Av38St0i-cU0qvAwQ)
