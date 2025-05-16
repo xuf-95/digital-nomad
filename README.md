@@ -14,7 +14,7 @@
 
 > 微信公众号：[DNCN](https://docs.qq.com/doc/DWXhrZ3d4bUtsakV0)
 
-3. [NCC共创共居社区]: 云南省大理白族自治州大理市葱园村114号 
+3. [NCC共创共居社区](https://eleduck.com/posts/x0f5KB): 云南省大理白族自治州大理市葱园村114号 
 > NCC: Nomad Co-living & Co-Creating
 
 > 微信公众号：[NCC社区](https://mp.weixin.qq.com/s/KBty2Av38St0i-cU0qvAwQ)
@@ -45,7 +45,6 @@
 1.[Nomad Chat](https://nomads.com/chat): 和全球不同国家的社区进行线上沟通交流，可以在社区中提出你的问题，或者解决其他游民的问题。
 2.[Facebook DN Group](https://www.facebook.com/groups/1033016563818566)
 
-
 ### 远程工作网站
 1. [电鸭社群](https://eleduck.com) - 电鸭社区是国内最具影响力的自由工作社区，聚集了海内外5w+社区居民，每月新增上百条工作机会。 在电鸭，我们只工作，不上班【Apple Store App】
 2. [RW数字游民社区](https://NOMADDAO.CLUB) - 秉持DAO的理念共建数字游民社区，赋能&链接数字游民
@@ -71,17 +70,17 @@
 7. 迪拜
 8. 荷兰
    
-
 ### 旅游攻略
+
 1. [nomad list](https://nomadlist.com/) - 是一个为数字游民和远程工作者提供全球城市生活成本、工作环境、气候等多维度信息比较和目的地选择指南的在线平台。通过访问该网站，用户可以得到丰富的数据支持和实用的社区指导，从而更好地规划他们的数字游民生涯。
 2. [lonely planet](https://www.lonelyplanet.com/) - Lonely Planet（孤独星球）是一个著名的旅游资讯网站和旅行指南出版商，提供全球各地详细的旅行指南、攻略、景点信息及旅行灵感，帮助旅行者计划和预订理想旅程。
 3. [atlas obscura](https://www.atlasobscura.com/) - Atlas Obscura 是一个展示世界各地独特、奇异和鲜为人知旅行目的地的在线探索平台，汇集了丰富而罕见的景点、历史遗迹、美食鉴赏、博物展馆等内容。
-4.
-
 
 ### 保险
+
 > 对于数字游民来说，选择合适的保险至关重要，因为他们的生活方式跨越了传统的地理界限，普通保险可能无法全面覆盖其在旅行和工作中面临的风险。因此，选择能够适应频繁迁移和跨地域工作特点的保险产品是非常必要的。同时，还需关注各国法规政策，确保所购保险符合目的地国家的法律要求
 #### 旅行保险：
+
 1. [World Nomads]() - 这是一个专门针对国际旅行者的保险公司，提供短至一天、长至一年以上的旅行保险，覆盖范围包括医疗紧急情况、行李丢失、行程取消等多种风险，特别适合经常跨国移动的数字游民。
 2. [Safety Wing]() - 
 #### 长期健康保险
@@ -91,16 +90,9 @@
 #### 数据知识产权保险
 针对拥有重要数据资产的企业或个人，有地方开始提供数据知识产权被侵权损失保险，保护数据资产不因侵权行为遭受经济损失。
 
-### 数字游民技能
-
-## 数字游民日记
-
 ## 数字游民
 1. [数字游民部落](https://jarodise.com/) - Jarod Zhang
 2. [Nomad List](- Best Places to Live for Digital Nomads) - 数字游民相对适合的国家相关信息（花费、温度等）
-
-
-
 
 ### 参考
 cbovise: [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads?tab=readme-ov-file#accommodation)
